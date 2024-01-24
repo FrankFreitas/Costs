@@ -28,4 +28,4 @@ Este sistema React representa uma solução avançada para o gerenciamento de pr
 
 
 ## Tecnologias Utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs)](https://skillicons.dev)
