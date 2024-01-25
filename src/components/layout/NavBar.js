@@ -7,7 +7,7 @@ import Container from './Container'
 
 function NavBar() {
     return (
-        <nav class={styles.navbar}>
+        <nav className={styles.navbar}>
             <Container>
                 <Link to='/'><img src={logo} alt='logo moeda' /></Link>
                 <ul className={styles.list}>
