@@ -153,6 +153,72 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "73c0",
+      "name": "projeto testando mensagem",
+      "budget": "2000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d45d",
+      "name": "projeto teste notifi",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d34c",
+      "name": "fuck",
+      "budget": "2333",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "eb9e",
+      "name": "dwdwdw",
+      "budget": "2323",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8f98",
+      "name": "frank32",
+      "budget": "2000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "61e5",
+      "name": "Visualizador de forma de onda",
+      "budget": "5000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
