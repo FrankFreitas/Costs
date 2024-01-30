@@ -219,6 +219,28 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "f22c",
+      "name": "criado com cor",
+      "budget": "2000",
+      "category": {
+        "id": "1",
+        "name": "infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e62e",
+      "name": "cor2",
+      "budget": "2333",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
