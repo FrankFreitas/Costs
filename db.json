@@ -1,20 +1,9 @@
 {
   "projects": [
     {
-      "id": "e62e",
-      "name": "projeto costs",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "a8e2",
-      "name": "frost company",
-      "budget": "8000",
+      "id": "9e1e",
+      "name": "Sofia modas",
+      "budget": "10000",
       "category": {
         "id": "3",
         "name": "Design"
