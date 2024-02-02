@@ -12,50 +12,20 @@
       "services": []
     },
     {
-      "id": "1735",
+      "id": "bde5",
       "name": "frank modas",
       "budget": "2000",
       "category": {
-        "id": "1",
-        "name": "infra"
+        "id": "2",
+        "name": "Desenvolvimento"
       },
-      "cost": 1600,
+      "cost": 100,
       "services": [
         {
-          "name": "compra de panos",
-          "cost": "150",
-          "description": "panos ",
-          "id": "4a1e1395-8395-4fb5-a8ed-8a0e814339b6"
-        },
-        {
-          "name": "compra de panos",
-          "cost": "150",
-          "description": "panos ",
-          "id": "4a1e1395-8395-4fb5-a8ed-8a0e814339b6"
-        },
-        {
-          "name": "contratar sofia",
-          "cost": "1000",
-          "description": "contratar ela pq ela é gostosa",
-          "id": "dc4f7d52-6163-4b38-a2cc-e86f7d873141"
-        },
-        {
-          "name": "contratar o kotaro",
+          "name": "dev",
           "cost": "100",
-          "description": "pq ele é legal",
-          "id": "b71cb990-3ed2-4498-b280-0a0491dfd053"
-        },
-        {
-          "name": "contratar vó ",
-          "cost": "100",
-          "description": "encher o saco",
-          "id": "477f1d61-837c-4315-b14a-43833523a06a"
-        },
-        {
-          "name": "contratar calebe",
-          "cost": "100",
-          "description": "beber e conversar",
-          "id": "2bed057b-967e-4c7e-8ede-674ed0898ec0"
+          "description": "dev front",
+          "id": "16039681-f658-4dbb-873b-154c3b7244c4"
         }
       ]
     }
